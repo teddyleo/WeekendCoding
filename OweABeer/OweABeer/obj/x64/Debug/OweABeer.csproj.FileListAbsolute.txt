@@ -1,0 +1,13 @@
+C:\Users\leong\OneDrive\Documents\WeekendCoding\OweABeer\OweABeer\bin\x64\Debug\OweABeer.dll
+C:\Users\leong\OneDrive\Documents\WeekendCoding\OweABeer\OweABeer\bin\x64\Debug\OweABeer.pdb
+C:\Users\leong\OneDrive\Documents\WeekendCoding\OweABeer\OweABeer\bin\x64\Debug\Xamarin.Forms.Core.dll
+C:\Users\leong\OneDrive\Documents\WeekendCoding\OweABeer\OweABeer\bin\x64\Debug\Xamarin.Forms.Platform.dll
+C:\Users\leong\OneDrive\Documents\WeekendCoding\OweABeer\OweABeer\bin\x64\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\leong\OneDrive\Documents\WeekendCoding\OweABeer\OweABeer\bin\x64\Debug\Xamarin.Forms.Core.pdb
+C:\Users\leong\OneDrive\Documents\WeekendCoding\OweABeer\OweABeer\bin\x64\Debug\Xamarin.Forms.Core.xml
+C:\Users\leong\OneDrive\Documents\WeekendCoding\OweABeer\OweABeer\bin\x64\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\leong\OneDrive\Documents\WeekendCoding\OweABeer\OweABeer\bin\x64\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\leong\OneDrive\Documents\WeekendCoding\OweABeer\OweABeer\bin\x64\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\leong\OneDrive\Documents\WeekendCoding\OweABeer\OweABeer\obj\x64\Debug\OweABeer.csprojResolveAssemblyReference.cache
+C:\Users\leong\OneDrive\Documents\WeekendCoding\OweABeer\OweABeer\obj\x64\Debug\OweABeer.dll
+C:\Users\leong\OneDrive\Documents\WeekendCoding\OweABeer\OweABeer\obj\x64\Debug\OweABeer.pdb
